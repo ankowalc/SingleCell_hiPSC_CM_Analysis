@@ -12,8 +12,8 @@ Data/Images available upon request
 
 Single cell work and experimentation based on 
 
-Salick, Max R., et al. "Micropattern width dependent sarcomere development in human ESC-derived cardiomyocytes." Biomaterials 35.15 (2014): 4454-4464 
-Li, Junjun, et al. "hiPSC-derived cardiac tissue for disease modeling and drug discovery." International journal of molecular sciences 21.23 (2020): 8893. 
+Salick, Max R., et al. "Micropattern width dependent sarcomere development in human ESC-derived cardiomyocytes." Biomaterials 35.15 (2014): 4454-4464, 
+Li, Junjun, et al. "hiPSC-derived cardiac tissue for disease modeling and drug discovery." International journal of molecular sciences 21.23 (2020): 8893,
 Microcontact printing done based on Chenyan Wang PhD.'s work. Wang, C (2021). Doctoral dissertation proposal, Syracuse University.
 
 
