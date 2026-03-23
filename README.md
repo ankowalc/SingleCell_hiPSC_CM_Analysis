@@ -3,9 +3,9 @@ Analyzing the structure and physiology of single cell hiPSC-CMs in Dr Zhen Ma's 
 
 Code is using the following for reference
 
-Pix2Pix: https://arxiv.org/abs/1611.07004
-StyleGAN: http://arxiv.org/abs/1912.04958
-2DFFT: https://academic.oup.com/mam/article/29/1/254/6948875
+Pix2Pix: https://arxiv.org/abs/1611.07004,
+StyleGAN: http://arxiv.org/abs/1912.04958,
+2DFFT: https://academic.oup.com/mam/article/29/1/254/6948875,
 
 All training done in Google Colab with a T4 GPU.
 Data/Images available upon request 
